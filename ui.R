@@ -4,7 +4,7 @@ library(shiny)
 
 shinyUI(
     fluidPage(
-        titlePanel("Adverse Events Query to OpenFDA Hello", windowTitle = "Adverse Events Query to OpenFDA"),
+        titlePanel("Adverse Events Query to OpenFDA Hello GA2", windowTitle = "Adverse Events Query to OpenFDA"),
         fluidRow(
             column(3,
                 br(),
